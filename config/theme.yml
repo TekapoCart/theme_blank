@@ -1,0 +1,6 @@
+parent: simplicity
+name: simplicity_blank
+display_name: simplicity blank
+version: 1.0.0
+assets:
+  use_parent_assets: true
