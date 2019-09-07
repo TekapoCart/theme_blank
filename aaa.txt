@@ -1,1 +1,320 @@
-123
+<div itemscope itemtype="https://schema.org/FAQPage" style="font-size: 18px;">
+    <h1 class="text-xs-center">Q&A常見問題</h1>
+
+    <br/>
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：請問可以使用電話預約嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：因電話為日本市內電話，撥打後會以國際通話計費，而且無會說中文之工作人員在場，建議以 E-mail 方式訂位。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：該怎麼訂位？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：如需訂位可以直接使用 <a href="https://hokuzan.nakijin.fun/page/8-online-reservation" style="color: #d6ffaa;">線上訂位表單</a>，或寄信到【hokuzan.shokudo.tw@gmail.com】留下您的『訂位大名』(中、英文)、『用餐日期』、『用餐時間』、『用餐人數』。用餐者有孩童請寫上年齡，之後將有專人回覆您。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：請問有店內座位圖或詳細照片嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：<a href="https://goo.gl/cb04LB" target="_blank" style="color: #d6ffaa;" rel="noreferrer noopener">360度餐聽實景</a> 此連結為『吧檯區座位、洋式座位(綠色)、和式座位(鋪軟墊)』的
+                360 度實景導覽，包廂請參考圖片，包廂為優先制，因包廂數有限，會依當天訂位之順序安排，訂位時可提出需包廂，但會依情況安排，如用餐人數多包廂已滿也可能安排至開放座位，敬請見諒。
+
+                <div class="text-xs-center">
+                    <h3>吧檯區座位</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/65603/320x320_square_65603621.jpg" alt="吧檯區座位" style="max-width: 100%;"/><br/><br/> 
+                    <h3>洋式座位（綠色）</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/66924/320x320_square_66924823.jpg" alt="洋式座位（綠色）" style="max-width: 100%;"/><br/><br/> 
+                    <h3>和式座位（鋪軟墊）</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/66924/320x320_square_66924825.jpg" alt="和式座位（鋪軟墊）" style="max-width: 100%;"/>   
+                    <br/><br/> 
+                    <h3>大型包廂（最多可容納 25 人）</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/98624/320x320_square_98624911.jpg" alt="大型包廂（最多可容納 25 人"
+                         style="max-width: 100%;"/><br/><br/> 
+                    <h3>中型包廂（最多可容納 13 人）</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/98624/320x320_square_98624904.jpg" alt="中型包廂（最多可容納 13 人）" style="max-width: 100%;"/> 
+                    <br/><br/> 
+                    <h3>小型包廂（最多可容納 4～5 人）</h3>
+                    <img src="https://tblg.k-img.com/restaurant/images/Rvw/98624/320x320_square_98624907.jpg" alt="小型包廂（最多可容納 4～5 人）" style="max-width: 100%;"/>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有無提供刷卡服務？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：付款方式有現金、信用卡（VISA、JCB、MASTER）Alipay、微信支付、銀聯卡。但避免國外有交易手續費之問題，建議用現金結帳。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有無提供無障礙空間，輪椅或行動不便者方便入內用餐嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：有提供洋式座位，一般桌椅高度。但進入餐廳前的道路為碎石頭路，輪椅者可能較不方便，建議由同行者攙扶，柱枴杖者放慢腳步即可。如有行動不便者，請在訂位前先告知，方便幫您安排座位。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：結帳時需另外附 8% 的稅金嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：是的，本店所有料理、飲品皆為未稅價格，需另外支付日本當地消費稅（8%）。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：店內有提供 ｗｉｆｉ 嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：有的。請搜尋 ID 『hokuzanshokudou』、密碼為『0980561555』(僅供外場座位，包廂無法使用敬請見諒)。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有提供早餐或午餐嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：目前無提供早、午餐。但午餐如有團體（30位以上）可訂購北山食堂特製定食，如需預訂請提前來信告知，現場無法提供。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有無提供吃到飽、喝到飽方案？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：目前無提供，但可依情況提供，如團體、慶生、派對等，詳情請來信洽詢。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：想幫朋友慶生，請問有無提供代訂蛋糕或準備蛋糕蠟燭之服務？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：<span style="color: #c0fd7e;">本店不提供代訂蛋糕之服務，蠟燭需依現場狀況，可能發生現場無蠟燭的狀況，建議自行攜帶。雖無法代訂蛋糕，但可寄放蛋糕，幫您保管冷藏，建議用餐前先拿給服務人員，用餐完畢後提醒工作人員，會幫您送上蛋糕。(如需慶生寄放蛋糕等情事，請在預約時提前告知。)</span>
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：最晚可以幾點進去用餐？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：營業至凌晨１點，但會視情況延長，最後點餐時間為 24：00。如 23 點進入本店，可用餐至凌晨１點。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：開車過去該怎麼辦？可以停車嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：本店附有專用停車場，可停30台車。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：沒開車的話，有大眾運輸工具嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：可搭巴士至『今歸仁城跡入口（今帰仁城跡入口）』下車後，走路約 10 分鐘。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：店內可以拍照嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：店裡任何擺飾裝潢都很歡迎拍照，但是為保護其他客人隱私，拍照時請盡量避免其他客人入鏡。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：包廂有喝到飽的水頭龍嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：目前包廂無提供泡盛喝到飽的水龍頭，仍可點喝到飽，但改以酒瓶方式提供。包廂內無法分開單點，需全部用餐人員同時點單，敬請見諒。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：可自行攜帶購買的酒或外食進入店裡嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：禁帶外食或酒。如攜至本店請勿開封飲用，經發現將酌收開瓶 2000円～5000円（依情況而定）。（嬰兒食品、飲品等不在此限）
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：餐點可以外帶嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：除了茶泡飯、生食、沙拉、甜點、飲品外，皆可外帶。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：請問店內有最低消費嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：本店無最低消費，只要有點料理或飲品即可入內用餐。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：店內提供兒童座椅嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：目前無提供專用兒童座椅，如和式座位有提供小青蛙座椅，適合 2～4 歲的小孩使用(敬請自取)。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有提供兒童餐嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：目前無針對兒童提供相關餐點，但可參考料理內容挑選合適餐點用餐。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有提供素食餐點嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：本店無提供素食餐點，茹素者可先來信詢問，可提前預約料理，但素食料理需與一般料理分開製作，需多花費一些時間，敬請見諒。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：有無提供代理駕駛或叫計程車服務？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：可洽詢工作人員，可叫計程車或幫您把車開回飯店，讓您喝酒也能安全回到住處。(車資或代駕金額及相關內容請洽工作人員或來信詢問)。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：吃剩的東西可打包嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：茶泡飯、生食、沙拉、甜點、飲品以外，炒類、炸類、披薩可供打包，請告知工作人員 <span style="color: #f5a623;">『お持ち帰り 或 テイクアウト 或 TAKE OUT』。</span>
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：請問可以攜帶寵物至店裡嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：本店禁止攜帶寵物，如體型較大可綁在店外方，如體型小可放入寵物箱後帶至店裡。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：請問餐廳是禁煙的嗎？為何日本居酒屋都能室內吸煙？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：本店全面無禁菸，可公開抽煙並免費提供煙灰缸。日本在露天公開場合普遍都禁止吸煙，也嚴禁邊走邊抽，所以會規劃吸煙區或室內、餐廳等都開放吸煙，某些餐廳會分吸煙用餐區、非吸煙用餐區，北山食堂為全面開放，並無特別規劃吸煙區及非吸煙區，如非常在意二手煙味建議在訂位時告知，以利安排包廂座位（包廂有限，以
+                4 人以上為優先安排，低於4人將視當天情況進行調整）。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+    <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+        <div itemprop="name" style="color: #fbe329; font-weight: 400">Ｑ：點了一整瓶的酒，但喝不完，可外帶回去嗎？</div>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                Ａ：如點瓶裝酒類，剩下的酒可直接帶走或是寄放在店裡，會幫您寫上名字及來店日期置於櫃台後方，保留三個月。
+            </div>
+        </div>
+    </div>
+
+    <br/><br/> 
+
+
+</div>
+
+<div class="text-xs-center">
+    <iframe width="700" height="600" style="max-width: 100%;"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3564.3372165927312!2d127.93089731473535!3d26.70167198321898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e4f9d27e94bfd1%3A0xf444cc0f6d98c1ca!2z5pit5ZKM5bGF6YWS5bGLIOWMl-Wxsemjn-Wggg!5e0!3m2!1szh-TW!2stw!4v1566719045926!5m2!1szh-TW!2stw"
+            frameborder="0"></iframe>
+</div>
